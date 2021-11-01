@@ -23,7 +23,8 @@ function qiehuan() {
 }
 // setInterval("qiehuan()", 1000);
 
-
+var myAuto = document.getElementById('audio');
+myAuto.play();
 
 
 
